@@ -16,3 +16,4 @@ restriction, so these pages moved here instead.
 
 - `/identity-verification-redirect/` → `btxapp://identity-verification-return`
 - `/stripe-connect-redirect/` → `btxapp://stripe-connect-return`
+- `/billing-portal-return/` → `btxapp://billing-portal-return`
